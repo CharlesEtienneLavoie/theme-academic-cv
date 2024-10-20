@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Charles-Étienne Lavoie
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Charles-Étienne Lavoie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Charles-Étienne
+last_name: Lavoie
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student-Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: UQAM
     url: https://openai.com/
 
 # Social network links
